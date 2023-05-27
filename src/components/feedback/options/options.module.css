@@ -1,0 +1,8 @@
+.feedBackBtn {
+  margin-right: 5px;
+  padding: 15px;
+  width: 150px;
+}
+.feedBackBtn:hover {
+  background-color: rgb(7, 175, 226);
+}
