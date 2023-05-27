@@ -1,5 +1,3 @@
-import css from './options.module.css';
-
 function Options({ clickOnButtonG, clickOnButtonN, clickOnButtonB }) {
   return (
     <div>
